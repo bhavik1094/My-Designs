@@ -1,0 +1,49 @@
+﻿body {
+}
+.navStyle{
+    background: -webkit-linear-gradient(left, #281eb9, #00c6ff);
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.navbar-nav .nav-item a:hover  {
+    color: azure;
+    font-size: 14px;
+    font-weight: 600;
+    /*transition: 1s ease;*/
+}
+.navCollapse{
+    margin-left:3%;
+}
+.myCara{
+padding: 7%;
+}
+.myCarInner{
+        border-radius: 3%;
+    -webkit-box-shadow: 0 15px 52px #756363;
+}
+.myCarIndicator{
+    margin-bottom: 8%;
+}
+.bgCol{
+    background:aliceblue;
+}
+.panelRow{
+    margin-left: 13%;
+    font-style: italic;
+        margin-bottom: 5%;
+    margin-top: 6%;
+}
+.rowStyle{
+    background: -webkit-linear-gradient(left, #b91e1e78, #00c6ff);
+        margin-top: 4%;
+    margin-bottom: -5%;
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+   color: azure;
+}
+.designLink{
+        margin-right: 19px;
+    color: white;
+    -webkit-text-stroke-width: thin;
+    text-decoration: underline;
+}

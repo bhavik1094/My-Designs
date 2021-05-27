@@ -1,0 +1,123 @@
+﻿body {
+}
+.con-style1{
+    margin-top: 6%;
+    background: beige;
+    border-radius: 20px;
+}
+.sec1{
+    padding:2%;
+}
+.colss{
+    background: gainsboro;
+    margin-bottom: 2%;
+    padding: 2%;
+    border-radius: 19px;
+}
+.pic{
+        width: 100%;
+    border-radius: 52px;
+}
+.panelStyle{
+    background: linen;
+    border -webkit-text-emphasis-style: triangle;
+    border-radius: 91px;
+}
+.btnStyle{
+        padding: 7%;
+    border-radius: 15px;
+    margin-left: 27px;
+}
+.con-style2{
+    padding: 4%;
+    background: skyblue;
+    border-radius: 10px;
+    margin-top:1%;
+}
+.rowColor{
+    background:white;
+    background: white;
+    width: 99%;
+    border-radius: 22px;
+    padding: 19px;
+}
+.colColor{
+    margin-left: 3%;
+    border-radius: 18px;
+    border: 1px solid black;
+    height: 200px;
+    padding: 3%;
+    margin-top: 3%;
+    margin-right: 1%;
+    width: 20%;
+    background: cadetblue;
+}
+.col2Color{
+    margin-right: 1%;
+    width: 200px;
+    background: aliceblue;
+    margin-left: 3%;
+    border-radius: 14px;
+}
+.colSquare{
+    height: 150px;
+    border-radius: 14px;
+    background: wheat;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+.colRound{
+        height: 101px;
+    margin-top: 17%;
+    border-radius: 50%;
+    width: 70px;
+    margin-left: 7%;
+    background: cadetblue;
+}
+.row2Color{
+    height: 252px;
+    background: white;
+    border-radius: 12px;
+}
+.row2row1{
+    background: blue;
+    height: 29%;
+    width: 94%;
+    margin-left: 3%;
+    margin-top: 1.5%;
+    margin-bottom: 1%;
+    border-radius: 17px
+}
+.row1Panel{
+        background: aqua;
+    padding: 1%;
+    width: 12%;
+    height: 48px;
+    margin-top: 3%;
+    border-radius: 50%;
+    margin-left: 43%;
+}
+.row2Col{
+    background: antiquewhite;
+    height: 61%;
+    margin-top: 3%;
+    margin-left: 2%;
+    width: 46%;
+    border-radius: 12px;
+}
+.row2ColPanel{
+    background: brown;
+    height: 25px;
+    width: 44px;
+    margin-left: 34%;
+    margin-top: 4%;
+    border-radius: 50%;
+}
+.buttonStyle{
+    border-radius: 13px;
+    text-align: left;
+    background: azure;
+}
+.fAlign{
+    margin-left:93%;
+}
